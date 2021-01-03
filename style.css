@@ -13,7 +13,7 @@ h1 {
 #query-input {
     text-align: center;
     font-weight: bold;
-    width: max(calc(100% - 1000px), 300px);
+    width: clamp(300px, calc(100% - 1000px), 750px);
     border: 2px solid black;
     border-radius: 5px;
 }
