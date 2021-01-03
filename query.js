@@ -68,6 +68,7 @@ function query() {
             warning.removeAttribute("hidden");
         }
     });
+    return false;
 }
 
 function sendRequest(query, callback) {
