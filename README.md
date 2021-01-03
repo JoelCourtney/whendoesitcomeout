@@ -1,2 +1,5 @@
 # whendoesitcomeout
-because we really need this
+
+https://www.joelcourtney.net/whendoesitcomeout
+
+Very useful, I know.
