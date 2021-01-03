@@ -13,7 +13,7 @@ h1 {
 #query-input {
     text-align: center;
     font-weight: bold;
-    width: calc(100% - 1000px);
+    width: max(calc(100% - 1000px), 300px);
 }
 
 .form-div {
