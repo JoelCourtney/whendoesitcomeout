@@ -1,0 +1,58 @@
+.content {
+    text-align: center;
+    padding-top: 100px;
+    font-family: Montserrat;
+}
+
+h1 {
+    font-family: Rajdhani!important;
+    font-size: 5rem;
+    font-weight: 300;
+}
+
+#query-input {
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-div {
+    margin-bottom: 50px;
+    font-family: Rajdhani!important;
+}
+
+table {
+    font-size: 30px;
+    border-color: white!important;
+    table-layout: fixed;
+}
+
+td {
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+}
+
+.name-column {
+    text-align: right!important;
+    border-right: 1px solid black;
+}
+
+.date-column {
+    text-align: left!important;
+}
+
+a {
+    text-decoration: none;
+    color: #01b4e4;
+}
+
+a.hover {
+    color: #90cea1;
+}
+
+.logo {
+    width: 30%;
+}
+
+.poweredby {
+    margin-top: 50px!important;
+}
